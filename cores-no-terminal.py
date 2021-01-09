@@ -1,7 +1,5 @@
-a = str (input('digite:'))
+a = str(input('digite:'))
 print(f'\033[4:30:45m A sua loja é {a}\033[m')
-
-
 
 # STYLE                         text                            back
 # 0 -> nada                     30 -> branco                    40 -> branco

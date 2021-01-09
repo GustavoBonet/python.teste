@@ -18,4 +18,3 @@ print(frase.title())
 
 print(frase.split())
 # dividi todos espaços vazios
-
