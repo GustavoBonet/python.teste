@@ -1,4 +1,4 @@
-frase = str(input('Digite a frase:')).lstrip()
+frase = str(input('Digite a frase:')).rstrip()
 # lstrip para tirar espaços da esquerda e rstrip para tirar espaços da direita
 
 print(frase.replace('diamante', 'ouro'))

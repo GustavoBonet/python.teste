@@ -2,7 +2,7 @@ frase = str(input('Digite a frase:')).strip()
 # .strip() serve pra retirar espaços no começo e final
 
 print(len(frase))
-# len conta o número de caracteres
+# len conta o número de caracteres da frase
 
 print(frase.count('o', 0, 15))
 # conta quantas letras o tem e onde começa e termina
